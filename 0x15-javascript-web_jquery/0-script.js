@@ -1,3 +1,3 @@
-//change text color of header element
-const header = document.querySelector("header");
+//change color header to red 
+let header = document.querySelector("header");
 header.style.color = "#FF0000";
