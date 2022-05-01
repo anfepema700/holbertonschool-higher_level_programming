@@ -1,3 +1,3 @@
-//change color header to red 
+//update color header to red 
 let header = document.querySelector("header");
 header.style.color = "#FF0000";
