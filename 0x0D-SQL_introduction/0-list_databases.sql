@@ -1,2 +1,3 @@
---List all databases in server
-SHOW DATABASE
+-- List all databases in server
+
+SHOW DATABASE;
