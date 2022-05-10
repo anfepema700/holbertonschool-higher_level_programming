@@ -1,2 +1,3 @@
 --show all tables from all database in server
-SHOW TABLES
+
+SHOW TABLES;
