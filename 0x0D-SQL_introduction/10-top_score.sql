@@ -1,4 +1,3 @@
---lists all records of secondtable for score top asc. 
-USE hbtn_0c_0;
-GO
+-- lists all records of secondtable for score top asc. 
+
 SELECT score, name FROM second_table DESC;
