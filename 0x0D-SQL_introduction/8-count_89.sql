@@ -1,4 +1,2 @@
---Count the rows in table that id = 89
-USE hbtn_0c_0
-GO
+-- Count the rows in table that id = 89
 SELECT COUNT(id) FROM first_table WHERE ID=89
